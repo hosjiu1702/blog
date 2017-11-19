@@ -1,0 +1,29 @@
+<!doctype html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>MQTT hello</title>
+    <script src="http://127.0.0.1:8080/js/browserMqtt.js"></script>
+    <script src="http://127.0.0.1:8080/js/dashboard.js"></script>
+    
+    <script>console.log('suck !!!')</script>
+  </head>
+
+  <body>
+    <div id="btn-sub">
+      <input type="text" id="topic-sub" placeholder="topic; e.g: 'topic/channel-1' ">
+      <button onclick="subscribe()">Subscribe</button>
+      <br>
+      <br>
+      <input type="text" id="topic-pub" placeholder="topic; e.g: 'topic/channel-1' ">
+      <button onclick="publish()">Publish</button>
+      <div id="test">
+        <!-- This is Text from console.log() method -->
+      </div>
+      <div id="message">
+        <!-- This is place message responsed -->
+      </div>
+    </div>
+  </body>
+</html>
