@@ -4,15 +4,22 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Tôi là **Bùi Gia Huy**.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Background của tôi là về Electronics. Cụ thể hơn khi còn ngồi trên ghế nhà trường
+(Da Nang University Of Technology, DUT) tôi quan tâm chủ yếu về **Toán** và **Embed System**.
+Tuy nhiên, tôi đã không tốt nghiệp vì tôi ... KHÔNG QUAN TÂM chuyện tốt nghiệp :)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Tôi đã rời ghế nhà trường khi vừa hết năm 4. Tôi không chắc điều này là hợp lý, nhưng tôi biết
+tôi muốn gì ở thế giới này.
 
+Hiện tại, tôi đang tự học về Deep Learning, mà chủ yếu là về lĩnh vực thị giác.
 
-[jekyll-organization]: https://github.com/jekyll
+Tôi đã thực tập 1 năm ở một công ty tên là [_Kubtech_](https://kub.vn/) về mảng này.
+Hiện tại, tôi đang tự trau dồi thêm kiến thức trước khi, có lẽ, quay lại công ty này để
+hoàn thành một project mà tôi nghĩ khá thú vị.
+
+Blog này được tạo ra chỉ vì tôi muốn có một **ĐỘNG LỰC** để nghiêm khắc hơn trong quá trình
+tự học cũng như chia sẻ một ít kiến thức cho cộng đồng.
+
+_Source code của blog dựa trên tác giả [Andrej Karpathy](http://karpathy.github.io/)_
