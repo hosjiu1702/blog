@@ -26,4 +26,4 @@ tự học cũng như chia sẻ một ít kiến thức cho cộng đồng.
 
 ___
 
-_Source code của blog dựa trên tác giả [Andrej Karpathy](http://karpathy.github.io/)_
+_Template của blog dựa trên tác giả [Andrej Karpathy](http://karpathy.github.io/)_
