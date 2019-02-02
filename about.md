@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Tôi là **Bùi Gia Huy**.
+Tôi là **Bùi Gia Huy**, hiện tại đang là kỹ sư học máy tại D-Soft (Một Startup về Deep Learing.)
 
 Background của tôi là về Electronics. Cụ thể hơn khi còn ngồi trên ghế nhà trường
 (Da Nang University Of Technology, DUT) tôi quan tâm chủ yếu về **Toán** và **Embed System**.
