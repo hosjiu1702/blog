@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Tôi là **Bùi Gia Huy**, ~~hiện tại đang học việc ở vị trí Research Engineer tại D-Soft (Một Startup về Deep Learing.)~
-~
+Tôi là **Bùi Gia Huy**, ~~hiện tại đang học việc ở vị trí Research Engineer tại D-Soft (Một Startup về Deep Learing).~~
+
 ___
 
 Background của tôi là về Electronics. Cụ thể hơn khi còn ngồi trên ghế nhà trường
